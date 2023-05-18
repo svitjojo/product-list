@@ -1,0 +1,322 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://example.com/product1.jpg",
+      "name": "Smartphone X",
+      "count": 10,
+      "size": {
+        "width": 70,
+        "height": 150
+      },
+      "weight": "150g",
+      "comments": [
+        "Great phone! The camera quality is amazing.",
+        "The battery life could be better, but overall a good product."
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://example.com/product2.jpg",
+      "name": "Wireless Headphones",
+      "count": 15,
+      "size": {
+        "width": 180,
+        "height": 200
+      },
+      "weight": "250g",
+      "comments": [
+        "These headphones have a great sound quality!",
+        "The Bluetooth connectivity is a bit unreliable at times."
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://example.com/product3.jpg",
+      "name": "Fitness Tracker",
+      "count": 5,
+      "size": {
+        "width": 30,
+        "height": 250
+      },
+      "weight": "30g",
+      "comments": [
+        "This fitness tracker accurately tracks my steps and calories burned.",
+        "The heart rate monitor is not very accurate."
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://example.com/product4.jpg",
+      "name": "Bluetooth Speaker",
+      "count": 8,
+      "size": {
+        "width": 120,
+        "height": 120
+      },
+      "weight": "500g",
+      "comments": [
+        "The sound quality of this speaker is excellent!",
+        "The battery life could be longer, but it's still a good product."
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://example.com/product5.jpg",
+      "name": "Smart Watch",
+      "count": 12,
+      "size": {
+        "width": 40,
+        "height": 40
+      },
+      "weight": "100g",
+      "comments": [
+        "This smartwatch has a sleek design and works perfectly.",
+        "The display is a bit small, but it's easy to use."
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://example.com/product6.jpg",
+      "name": "Laptop Bag",
+      "count": 20,
+      "size": {
+        "width": 300,
+        "height": 400
+      },
+      "weight": "800g",
+      "comments": [
+        "The bag has plenty of pockets and provides good protection for my laptop.",
+        "The shoulder strap is not very comfortable."
+      ]
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://example.com/product7.jpg",
+      "name": "Portable Charger",
+      "count": 6,
+      "size": {
+        "width": 80,
+        "height": 150
+      },
+      "weight": "200g",
+      "comments": [
+        "This portable charger quickly charges my devices on the go.",
+        "The capacity could be higher, but it's still convenient to have."
+      ]
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://example.com/product8.jpg",
+      "name": "Wireless Mouse",
+      "count": 18,
+      "size": {
+        "width": 60,
+        "height": 100
+      },
+      "weight": "80g",
+      "comments": [
+        "The wireless mouse is comfortable to use and works smoothly.",
+        "Sometimes it disconnects randomly, but reconnects quickly."
+      ]
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://example.com/product9.jpg",
+      "name": "Bluetooth Earbuds",
+      "count": 7,
+      "size": {
+        "width": 30,
+        "height": 40
+      },
+      "weight": "50g",
+      "comments": [
+        "These Bluetooth earbuds have a good sound quality and fit well.",
+        "The battery life could be improved, but they're still worth it."
+      ]
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://example.com/product10.jpg",
+      "name": "Camera Tripod",
+      "count": 3,
+      "size": {
+        "width": 150,
+        "height": 300
+      },
+      "weight": "1kg",
+      "comments": [
+        "This tripod is sturdy and provides great stability for my camera.",
+        "The height adjustment mechanism is a bit stiff."
+      ]
+    },
+    {
+      "id": 1.0572013953331918,
+      "size": {
+        "width": "4",
+        "height": "4"
+      },
+      "imageUrl": "example",
+      "name": "sdf",
+      "count": "2",
+      "weight": "60"
+    },
+    {
+      "id": 1.4255271096425977,
+      "size": {
+        "width": "4",
+        "height": "4"
+      },
+      "imageUrl": "example",
+      "name": "sdfasdf",
+      "count": "4",
+      "weight": "180"
+    },
+    {
+      "id": 1.7460655033196757,
+      "size": {
+        "width": 1,
+        "height": 1
+      },
+      "imageUrl": "example",
+      "name": "sdf",
+      "count": 1,
+      "weight": "",
+      "comments": []
+    },
+    {
+      "id": 0.706799709053096,
+      "size": {
+        "width": 1,
+        "height": "3"
+      },
+      "imageUrl": "example",
+      "name": "sdf",
+      "count": 1,
+      "weight": "123g",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "description": "The camera quality is amazing.",
+      "date": "10:30 18.05.2023"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "description": "The battery life could be better, but overall a good product.",
+      "date": "14:45 18.05.2023"
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "description": "These headphones have a great sound quality!",
+      "date": "09:15 18.05.2023"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "description": "The Bluetooth connectivity is a bit unreliable at times.",
+      "date": "17:20 18.05.2023"
+    },
+    {
+      "id": 5,
+      "productId": 3,
+      "description": "This fitness tracker accurately tracks my steps and calories burned.",
+      "date": "12:10 18.05.2023"
+    },
+    {
+      "id": 6,
+      "productId": 3,
+      "description": "The heart rate monitor is not very accurate.",
+      "date": "16:55 18.05.2023"
+    },
+    {
+      "id": 7,
+      "productId": 4,
+      "description": "The sound quality of this speaker is excellent!",
+      "date": "10:00 18.05.2023"
+    },
+    {
+      "id": 8,
+      "productId": 4,
+      "description": "The battery life could be longer, but it's still a good product.",
+      "date": "15:30 18.05.2023"
+    },
+    {
+      "id": 9,
+      "productId": 5,
+      "description": "This smartwatch has a sleek design and works perfectly.",
+      "date": "11:25 18.05.2023"
+    },
+    {
+      "id": 10,
+      "productId": 5,
+      "description": "The display is a bit small, but it's easy to use.",
+      "date": "13:40 18.05.2023"
+    },
+    {
+      "id": 11,
+      "productId": 6,
+      "description": "The bag has plenty of pockets and provides good protection for my laptop.",
+      "date": "09:50 18.05.2023"
+    },
+    {
+      "id": 12,
+      "productId": 6,
+      "description": "The shoulder strap is not very comfortable.",
+      "date": "18:05 18.05.2023"
+    },
+    {
+      "id": 13,
+      "productId": 7,
+      "description": "This portable charger quickly charges my devices on the go.",
+      "date": "11:50 18.05.2023"
+    },
+    {
+      "id": 14,
+      "productId": 7,
+      "description": "The capacity could be higher, but it's still convenient to have.",
+      "date": "14:15 18.05.2023"
+    },
+    {
+      "id": 15,
+      "productId": 8,
+      "description": "The wireless mouse is comfortable to use and works smoothly.",
+      "date": "09:40 18.05.2023"
+    },
+    {
+      "id": 16,
+      "productId": 8,
+      "description": "Sometimes it disconnects randomly, but reconnects quickly.",
+      "date": "16:00 18.05.2023"
+    },
+    {
+      "id": 17,
+      "productId": 9,
+      "description": "These Bluetooth earbuds have a good sound quality and fit well.",
+      "date": "13:20 18.05.2023"
+    },
+    {
+      "id": 18,
+      "productId": 9,
+      "description": "The battery life could be improved, but they're still worth it.",
+      "date": "15:55 18.05.2023"
+    },
+    {
+      "id": 19,
+      "productId": 10,
+      "description": "This tripod is sturdy and provides great stability for my camera.",
+      "date": "10:10 18.05.2023"
+    },
+    {
+      "id": 20,
+      "productId": 10,
+      "description": "The height adjustment mechanism is a bit stiff.",
+      "date": "12:35 18.05.2023"
+    }
+  ]
+}
